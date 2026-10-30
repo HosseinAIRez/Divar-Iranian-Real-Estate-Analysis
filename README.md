@@ -4,7 +4,7 @@ A hands-on exploration of Iranian apartment asking prices using real-world real 
 
 ## Final visualization
 
-![Final geographic visualization of housing listings](Screenshots\tehran_housing_map.png)
+![Final geographic visualization of housing listings](Screenshots/tehran_housing_map.png)
 
 *Final map created with PostGIS and pgAdmin's Geometry Viewer. Points are reported listing coordinates and may represent approximate areas rather than exact property addresses.*
 
